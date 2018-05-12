@@ -1,0 +1,31 @@
+_repo: The-Treasure-of-the-Isle-of-Mist_34410
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34410-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tarn, W. W. (William Woodthorpe)
+    alias: Tarn, William Woodthorpe
+    birthdate: 1869
+    deathdate: 1957
+    gutenberg_agent_id: '37006'
+    url: http://www.gutenberg.org/2009/agents/37006
+    wikipedia: http://en.wikipedia.org/wiki/William_Woodthorpe_Tarn
+description: A tale of Fiona who lives on the Isle of Skye, and who sets out on a
+  quest for faery treasure and encounters adventure and magic.
+gutenberg_issued: '2010-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+title: The Treasure of the Isle of Mist
+url: http://www.gutenberg.org/ebooks/34410
